@@ -1,0 +1,30 @@
+body{ 
+    background-image: url("../img/hair.jpg");
+    background-repeat: repeat;
+    background-size: auto; 
+    background-attachment: fixed;
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: greenyellow;
+    background-color: brown;
+    width: 600px;
+}
+
+h2{
+    background-color: aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    position:static;
+    margin: center;
+    align-content: left;
+}
